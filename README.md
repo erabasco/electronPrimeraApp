@@ -1,2 +1,2 @@
-## Primera App de ejemplo con Electron.##
+## Primera App de ejemplo con Electron.
 Crear productos.
