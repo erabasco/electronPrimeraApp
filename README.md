@@ -10,6 +10,9 @@ Crear productos.
 * Nodejs: https://nodejs.org/es/
 
 ### Instalación
-
+//creamos proyecto nodejs
 npm init --yes
+
+//instalamos electron
+npm install electron
 
