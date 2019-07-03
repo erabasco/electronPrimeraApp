@@ -11,4 +11,5 @@ Crear productos.
 
 ### Instalación
 
+npm init --yes
 
