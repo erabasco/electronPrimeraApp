@@ -1,3 +1,6 @@
+Electron: framework de código abierto creado por Cheng Zhao, y ahora desarrollado por GitHub.
+
+
 ## Primera App de ejemplo con Electron.
 Crear productos.
 
@@ -5,4 +8,7 @@ Crear productos.
 ## Documentación:
 * Electron: https://electronjs.org/docs
 * Nodejs: https://nodejs.org/es/
+
+### Instalación
+
 
